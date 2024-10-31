@@ -1,0 +1,6 @@
+model_checkpoint_path: "drone0_2700"
+all_model_checkpoint_paths: "drone0_2300"
+all_model_checkpoint_paths: "drone0_2400"
+all_model_checkpoint_paths: "drone0_2500"
+all_model_checkpoint_paths: "drone0_2600"
+all_model_checkpoint_paths: "drone0_2700"

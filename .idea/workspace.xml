@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3291d385-46ee-4b59-80f0-89481fc26aac" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/models/trained/Indoor/indoor_cloud/CustomLoad/e2e/drone0/inferlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/trained/Indoor/indoor_cloud/CustomLoad/e2e/drone0/inferlog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Binaries/Win64/DRLwithTL.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Content/Paks/DRLwithTL-WindowsNoEditor.pak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-008382034C4C38C3D0FC3E8402EA6CE9/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-04A66A0E491CC087C73DBDABCC8F0AEC/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-0DB1C1694761DC9F7AA15DBAF5AF97E1/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-13DBDCCB4CF6A3E881D0A29FA71D0AA9/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-1681C2F14488580AC0116692DC33ECED/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-1E2300824789D73033A7ABB6DC521B95/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-1E39788748215F2904636F8FFA56BEAD/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-1FBC7DA843298F9817B99FAA9DD9D20E/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-2006FC7A4A59F4CDCF182F91A14C8CFE/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-208521354B559801F38512BE1349F388/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-263D0F92497E98461EF735B6ED40D0F5/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-268D84A34291141AADC2F89360B2FEF2/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-2795123B4EEE5FC87DECA4ACF8A06777/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-36664A124566859ADF1161B1BFDDBD16/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-38E9BBCD4769021366AAEB9A93EF07C8/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-3A86D05841CE4873C9CEEDA75DBDA98D/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-3AFE756C42015EEB0D2ED9BB13583C0E/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-3C9B161A4BA49F0841F202B4D83EDD9E/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-3ECBAF5148B257716A88A780CC3F1EE4/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-3FACEC5C4E0E1CF3645E89A9E30F4C33/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-450DE9C84CE63325FC943B963530AB9A/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-465DE0094F17563BBB458FA5CC24E889/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-47B9ABD741772583229D969E0DB9C015/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-493CACD34E91344C52FBF9B2FD929877/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-4D896C9F41E399DBF47A4BB8E1D956C8/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-5129CB084BBD9C2FD1799EAA49BA5ADE/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-57A4F8D04E0B8B2C59EFDE86EE0E1937/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-71C0EF9B42A7E911BA8750B0B774F5A8/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-71E7C44F41614E0A0C7383A9050B1F92/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-71FA93EC49C471CB31A5FAA8083E91C6/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-7E200781416E81532CA4B9B851D8B551/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-7E56011E478E869E83FBF6B486B7582A/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-82D20314414D3E35203D77B7828AEFC1/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-8D98534B4BDB1C5FB09E89ADEA0BADB9/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-8F6ED2F84E3D2FD9F31B16A816AFD01A/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-945BB5D64AA576BAF0046B9575D42904/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-9A0CA9304B678F2ED02EBA9D82CB6827/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-9CED3B95497C8C69FAC31DB0BD41157C/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-9E2C278E42A5C7B5D079DB8D70062CFA/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-A1FC46164570D40807438E80FF9CFEBD/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-A2F167CF4027EA2662ABE1B3D2C039E2/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-A3DFEB324EC285C683B2AC86B96D0B2E/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-A4CCC9E24BE3C209F9AEB6BBC5100311/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-A6DB2CCB44B808F0AFE4108912DB19EC/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-A922644E461DBDBC05047F9473777E34/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-AD6352B64F788F5924054891D15E9E21/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-AE23D463447CD9EA76A9458DE6FE4516/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-B0ADA0E841D1F397306AD1A03013B785/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-B13D66BA4190561B1F65659F14326103/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-B2DFD81D42103B777F4B278A60DB9BA3/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-B2ECA1E64D9BC05BC3801598215EE72D/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-B7CBE024488D7B372CE7928B2DCBE289/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-B8851D574A15C77C89FF048A8BB91723/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-BCA0D91248E1A77A17821A848A59F3BC/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-BD4E40824EBDF69B5E5B5D8638ED03D9/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-BDABE1554C4052ECB4B7DD8DDE3536D8/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-C1A9FF38419FE9582E2A9B8735F4FD37/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-C8A51B2349A118107A36489364E3663D/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-C8D57492484A36574064E3851B193F30/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-C8DA897E462323A7EE605FA44CFCA4EF/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-C929AEE74773AC5C6A2E148743E087DC/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-CC8A3F2C48102FECB84675B0D8628CEA/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-D1A449C14AC2908AC9002A85751FB392/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-DA83E1FA46C102684794D29431B24601/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-DDD739F546D6BD2FB971B2B140D472D9/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-DF0DE71046803B5502096E96034D2344/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-E56819EC4052EAF42A6AFCACA0575EAA/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-E5A137AF407689711973DB97A67B3DDC/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-E6A81D7448E6817F3140288F3838E582/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-E92AEB1440EEB0ED35CB719561E405E4/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-EDF19E0242890DB71AF28E948934D481/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-F3C7F63A4FE538A194527FB60DE42488/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/CrashReportClient/UE4CC-Windows-F5D39E7942079FB64D618389DE5954F3/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/WindowsNoEditor/Compat.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/WindowsNoEditor/DeviceProfiles.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/WindowsNoEditor/EditorPerProjectUserSettings.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/WindowsNoEditor/Engine.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/WindowsNoEditor/Game.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/WindowsNoEditor/Hardware.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/WindowsNoEditor/Input.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/WindowsNoEditor/Lightmass.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Config/WindowsNoEditor/Scalability.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-788885EF4631A3A3957CE9BB649D1A79_0000/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-788885EF4631A3A3957CE9BB649D1A79_0000/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-788885EF4631A3A3957CE9BB649D1A79_0000/DRLwithTL.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-788885EF4631A3A3957CE9BB649D1A79_0000/UE4Minidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-C125450E47F18F26EE7360B8C2E1B074_0000/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-C125450E47F18F26EE7360B8C2E1B074_0000/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-C125450E47F18F26EE7360B8C2E1B074_0000/DRLwithTL.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-C125450E47F18F26EE7360B8C2E1B074_0000/UE4Minidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-DA08D638421217FA8D595FA2E87A85EA_0000/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-DA08D638421217FA8D595FA2E87A85EA_0000/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-DA08D638421217FA8D595FA2E87A85EA_0000/DRLwithTL.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-DA08D638421217FA8D595FA2E87A85EA_0000/UE4Minidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-DA83E1FA46C102684794D29431B24601_0000/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-DA83E1FA46C102684794D29431B24601_0000/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-DA83E1FA46C102684794D29431B24601_0000/DRLwithTL.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Crashes/UE4CC-Windows-DA83E1FA46C102684794D29431B24601_0000/UE4Minidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL-backup-2024.10.23-04.13.58.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL-backup-2024.10.23-04.15.04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL-backup-2024.10.23-04.16.53.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL-backup-2024.10.23-04.18.59.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL-backup-2024.10.23-04.21.02.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL-backup-2024.10.23-04.23.06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL-backup-2024.10.23-04.26.14.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL-backup-2024.10.23-04.31.19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL-backup-2024.10.24-15.08.54.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL-backup-2024.10.24-15.13.20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_10-backup-2024.10.22-03.34.39.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_13-backup-2024.10.22-03.43.29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_14.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_2-backup-2024.10.22-05.56.35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_2-backup-2024.10.22-17.26.36.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_2-backup-2024.10.22-17.27.53.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_2-backup-2024.10.23-04.37.14.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_2-backup-2024.10.23-04.40.41.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_2-backup-2024.10.23-04.42.21.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_2-backup-2024.10.23-04.43.35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_2-backup-2024.10.23-04.47.07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_2-backup-2024.10.23-04.51.15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_2-backup-2024.10.24-15.12.42.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_3-backup-2024.10.22-03.01.08.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_3-backup-2024.10.22-04.05.52.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_3-backup-2024.10.22-04.12.52.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_3-backup-2024.10.22-04.24.07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_3-backup-2024.10.22-04.26.23.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_3-backup-2024.10.23-04.38.08.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_3-backup-2024.10.23-04.44.39.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_3-backup-2024.10.23-04.51.37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_3-backup-2024.10.23-04.52.31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_3-backup-2024.10.23-13.11.04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_4-backup-2024.10.23-13.20.34.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_4-backup-2024.10.23-13.23.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_4-backup-2024.10.23-13.25.54.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_4-backup-2024.10.23-13.28.32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_4-backup-2024.10.23-13.37.12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_4-backup-2024.10.23-15.47.23.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_4-backup-2024.10.23-15.55.53.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_4-backup-2024.10.23-18.48.55.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_4-backup-2024.10.23-18.51.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_4-backup-2024.10.23-18.53.55.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_5-backup-2024.10.20-22.16.46.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_5-backup-2024.10.20-22.28.20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_5-backup-2024.10.20-22.34.48.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_5-backup-2024.10.20-22.43.24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_5-backup-2024.10.22-03.09.55.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_5-backup-2024.10.23-04.46.10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_5-backup-2024.10.23-05.02.01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_5-backup-2024.10.23-13.13.02.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_5-backup-2024.10.23-13.14.51.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_5-backup-2024.10.23-15.56.07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_5.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_6-backup-2024.10.20-22.44.19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_6-backup-2024.10.22-03.14.47.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_6.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_7-backup-2024.10.20-22.45.02.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_7-backup-2024.10.22-03.19.41.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_7.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_8-backup-2024.10.22-03.23.05.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_8-backup-2024.10.22-03.24.20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_8-backup-2024.10.22-03.28.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_8.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/DRLwithTL/Saved/Logs/DRLwithTL_9.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_10/Win64/openvr_api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_ClothingPROFILE_x64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_LegacyPROFILE_x64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/ApexFrameworkPROFILE_x64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/NvClothPROFILE_x64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3CommonPROFILE_x64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3CookingPROFILE_x64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3PROFILE_x64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PxFoundationPROFILE_x64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PxPvdSDKPROFILE_x64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Engine/Saved/Config/WindowsNoEditor/Manifest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/Manifest_NonUFSFiles_Win64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/cloud_floor.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/config.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/indoor_cloud.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/results/altitude_variation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unreal_envs/indoor_cloud/results/navigation.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b0b84bd0-7546-4c38-b621-9041dff8d905" />
+        <option name="url" value="git@github.com:/GAO-Xingyi/AutomaticDrone.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2nrtB2iPA75roTz4DDYFTkabqUm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/21407/Desktop/新建文件夹/AutoDrone",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\21407\PycharmProjects\AutomaticDrone" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\21407\PycharmProjects\AutomaticDrone" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoDrone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3291d385-46ee-4b59-80f0-89481fc26aac" name="Changes" comment="" />
+      <created>1729742884163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729742884163</updated>
+      <workItem from="1729742885190" duration="4891000" />
+      <workItem from="1729749016862" duration="2812000" />
+      <workItem from="1730354587417" duration="298000" />
+      <workItem from="1730354973546" duration="1565000" />
+      <workItem from="1730368584480" duration="53000" />
+      <workItem from="1730368659470" duration="30000" />
+    </task>
+    <task id="LOCAL-00001" summary="comment">
+      <option name="closed" value="true" />
+      <created>1729744638055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729744638055</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1729744682110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729744682110</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comment" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AutomaticDrone$main.coverage" NAME="main Coverage Results" MODIFIED="1729743198613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
